@@ -1,0 +1,29 @@
+# ========================
+# Backend
+# ========================
+backend/venv/
+backend/.venv/
+backend/.env
+backend/__pycache__/
+backend/.pytest_cache/
+backend/*.pyc
+backend/.ruff_cache/
+
+# ========================
+# Frontend
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# ========================
+# General
+# ========================
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
