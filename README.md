@@ -1,11 +1,12 @@
 # VMDocs
 
+Integrantes:
+- Sebastian Valdebenito
+- Fabian Morales
+
 Sistema de gestión documental orientado a estudios jurídicos. Permite administrar clientes, casos, documentos y usuarios, con soporte para análisis de documentos mediante IA.
 
-> [!IMPORTANT]
-> **Nota para Profesores y Revisores:**
-> Existe una rama configurada específicamente para probar y evaluar este proyecto de forma 100% local mediante Docker (sin requerir credenciales externas, con BD local e IA simulada).
-> Por favor, **cambia a la rama `testing`** y sigue las instrucciones detalladas en el `README.md` del backend de dicha rama.
+
 
 ## Estructura del repositorio
 
