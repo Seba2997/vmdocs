@@ -6,6 +6,19 @@ Integrantes:
 
 Sistema de gestión documental orientado a estudios jurídicos. Permite administrar clientes, casos, documentos y usuarios, con soporte para análisis de documentos mediante IA.
 
+> [!IMPORTANT]
+> **Nota para Profesores y Revisores:**
+> Este repositorio fue creado para la entrega final del proyecto de forma unificada, los repositorios originales en los cuales se trabajó y sirieron para el despliegue de la app son:
+> 
+> - Repositorio Frontend: https://github.com/Seba2997/vmdocs-frontend
+> 
+> - Repositorio Backend: https://github.com/Seba2997/vmdocs-backend
+> 
+> Tabien aqui estan las urls de los dos despliegues en la nube, tanto del backend, como del frontend:
+> 
+> - Bakend (Documentacion): https://vmdocs-api.onrender.com
+> 
+> - Frontend: https://vmdocs-frontend.vercel.app
 
 
 ## Estructura del repositorio
